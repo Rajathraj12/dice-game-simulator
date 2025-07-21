@@ -15,4 +15,3 @@ A dice game with GUI interface, multiplayer support, and file storage.
 - **Single Player**: Play locally with multiple players
 - **Multiplayer**: Host or join online games
 - **Console**: Text-based version
-
